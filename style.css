@@ -5,6 +5,11 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+div {
+    background-color: red;
+    color: white;
+}
+
 body {
     background-color: skyblue;
 }
